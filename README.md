@@ -1,5 +1,6 @@
 ### Hello, I'm Paulina 👋
 
+I am front-end developer born in Poland, based in Berlin, Germany. 
 <!--
 **PaulinaLL/PaulinaLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
