@@ -1,6 +1,8 @@
 ### Hello, I'm Paulina 👋
 
 I am front-end developer born in Poland, based in Berlin, Germany. 
+
+
 :mailbox: https://www.linkedin.com/in/paulina-lukarska/
 
 <!--
