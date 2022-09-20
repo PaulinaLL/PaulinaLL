@@ -2,8 +2,6 @@
 
 I am front-end developer born in Poland, based in Berlin, Germany. 
 
-🌱 currently learning TypeScript and GraphQL
-
 
 :mailbox: https://www.linkedin.com/in/paulina-lukarska/
 
